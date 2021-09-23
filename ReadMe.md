@@ -1,9 +1,9 @@
 project moved to https://github.com/DarkSecDevelopers/LitePhish
-<h1> Gray Fish v2020.04</h1>
-<a href=http://graysuit.github.io><img src=https://img.shields.io/discord/873544368982720593?label=discord /></a>
+<h1> Obinna v2020.04</h1>
+<a href=http://Shaku1203.github.io><img src=https://img.shields.io/discord/873544368982720593?label=discord /></a>
 
-<p>Gray Fish contains phishing pages. <b>Before using it, make sure to read guide to avoid any problem.</b></p>
-<center><img src="https://i.ibb.co/PmH73X4/index.png" style="max-width:100%;align:middle;border:0;" alt="Gray Fish"></center>
+<p>Obinna contains phishing pages. <b>Before using it, make sure to read guide to avoid any problem.</b></p>
+<center><img src="https://i.ibb.co/PmH73X4/index.png" style="max-width:100%;align:middle;border:0;" alt="obinna"></center>
 <h2> Features</h2>
 <ul><li>Almost, all Templates are under 20KBs that helps in loading webpages fast.</li>
 <li>Images are encoded in base64 to avoid external + internal linking.</li>
@@ -14,15 +14,15 @@ project moved to https://github.com/DarkSecDevelopers/LitePhish
 <img src="https://i.ibb.co/qmwBf5k/images.png">
 <h2> Usage</h2>
 <pre><code>
-git clone https://github.com/graysuit/grayfish.git
+git clone https://github.com/Shaku1203/obinna.git
 </code></pre>
 <br><p><ol><li>Upload all files to any web hosting you like</li>
-<li>Enter your sitename and fill username & password(Default user & pass is <b>fish</b>)</li>
+<li>Enter your sitename and fill username & password(Default user & pass is <b>stan</b>)</li>
 <li>Select any phishing link</li>
 <li>Shorten link if you want</li>
 <li>Send the link to your victim</li>
 <li><b>Note:</b> Username/Password will be displayed in admin panel</li></ol></p><br>
-<center><img src="https://img.wonderhowto.com/img/15/72/63704809025462/0/phish-for-social-media-other-accounts-with-grayfish.w1456.jpg" style="width:100%;align:middle;border:0;" alt="Gray Fish"></center>
+<center><img src="https://img.wonderhowto.com/img/15/72/63704809025462/0/phish-for-social-media-other-accounts-with-Obinna.w1456.jpg" style="width:100%;align:middle;border:0;" alt="Obinna"></center>
 <h2> Available phishing sites/templates</h2>
 <details>
 <summary>Click me to view sites</summary>
@@ -45,19 +45,16 @@ git clone https://github.com/graysuit/grayfish.git
 <li>Twitter_desktop</li>
 <li>Wordpress</li>
 <li>Yahoo</li></ol></details>
-<h2> Gray Fish Admin Panel Default user & pass:</h2>
-<ul><li>Username = <b>fish</b></li>
-<li>Password = <b>fish</b></li></ul>
+<h2> Obinna Admin Panel Default user & pass:</h2>
+<ul><li>Username = <b>stan</b></li>
+<li>Password = <b>stan</b></li></ul>
 <h2> Tutorials:</h2>
 <ul><li><a href="https://www.facebook.com/ncybersec/videos/430378990922089/">Facebook Video</a></li>
-<li><a href="https://null-byte.wonderhowto.com/forum/phish-for-social-media-other-accounts-with-grayfish-0206861/">Null Byte Article</a></li>
-<li><a href="https://esgeeks.com/gray-fish-paginas-phishing-indetectables/">Spanish Article + video <b>Páginas de Phishing Totalmente Indetectables</b></a></li>
+<li><a href="https://null-byte.wonderhowto.com/forum/phish-for-social-media-other-accounts-with-obinna-0206861/">Null Byte Article</a></li>
+<li><a href="https://esgeeks.com/obinna-paginas-phishing-indetectables/">Spanish Article + video <b>Páginas de Phishing Totalmente Indetectables</b></a></li>
 <li>English Article<a href="https://freelearningtech.in/how-hackers-create-undetectable-phishing-pages/">How hackers create undetectable phishing pages?</b></a></li>
-<h2> <li><a href="https://github.com/graysuit/grayfish/blob/master/readme_extra.md">Extra things</a></li></ul></h2> 
+<h2> <li><a href="https://github.com/shaku1203/obinna/blob/master/readme_extra.md">Extra things</a></li></ul></h2> 
 <h2> Contact me :</h2>
 <ul>
-<li>Email: <b><a href="mailto:hackrefisher@gmail.com">hackrefisher@gmail.com</a></b></li>
-<li>Website: <a href="https://tiplava.blogspot.com/"><b>tiplava</b></a></li>
-<li>Discord: <a href="http://graysuit.github.io"><b>Cody</b></a></li>
-</ul>
-<h1>I Love ALLAH + Holy Prophet + Islam and Pakistan.</h1>
+<li>Email: <b><a href="mailto: stanleyobinna390@gmail.com">stanleyobinna390@gmail.com</a></b></li>
+
